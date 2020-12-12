@@ -12,3 +12,5 @@
   
 
 ![](https://github.com/Jevon101/Mine-clearance-assistant/blob/main/test.jpg)
+
+游戏本体的外挂程序在Realse里
